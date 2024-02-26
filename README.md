@@ -32,5 +32,5 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicio
 Licença
 Este projeto é distribuído sob a Licença MIT. Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades.
 
-Este projeto foi desenvolvido por [Seu Nome] e é fornecido sem garantias de qualquer tipo. Divirta-se usando o Sorteador de Loteria (LotoFácil)!
+Este projeto foi desenvolvido por Tarik e é fornecido sem garantias de qualquer tipo. Divirta-se usando o Sorteador de Loteria (LotoFácil)!
 </p>
